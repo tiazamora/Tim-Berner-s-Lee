@@ -99,3 +99,13 @@ p {
 .links:hover {
     background-color: crimson;
 }
+a {
+    text-decoration: none;
+        
+}
+.article:hover{
+    color:aquamarine;
+}
+html{
+    scroll-behavior: smooth;
+}
